@@ -20,3 +20,4 @@ nuget/**/*.nuspec
 
 ** Ignore relics from merge conflict
 *.orig
+src/.vs/

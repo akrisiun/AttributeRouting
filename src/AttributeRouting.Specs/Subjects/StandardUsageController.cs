@@ -3,6 +3,8 @@ using AttributeRouting.Web.Mvc;
 
 namespace AttributeRouting.Specs.Subjects
 {
+    using Route = AttributeRouting.Web.Mvc.RouteAttribute;
+
     public class StandardUsageController : Controller
     {
         [GET("", ActionPrecedence = 1)]

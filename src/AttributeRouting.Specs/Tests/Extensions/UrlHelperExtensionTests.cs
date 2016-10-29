@@ -5,7 +5,7 @@ using System.Web.Mvc;
 using System.Web.Routing;
 using AttributeRouting.Specs.Subjects;
 using AttributeRouting.Web.Mvc;
-using AttributeRouting.Web.Mvc.Extensions;
+//using AttributeRouting.Web.Mvc.Extensions;
 using Moq;
 using NUnit.Framework;
 
